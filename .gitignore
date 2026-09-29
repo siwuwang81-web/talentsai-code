@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+dist/
+build/
+.vscode/
+
+# Calibration inputs and generated results may be large or machine-specific.
+*.extract
+*.extract.txt
+calibration_result.json
+标定结果.json
+
