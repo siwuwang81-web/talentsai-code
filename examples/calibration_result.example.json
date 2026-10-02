@@ -1,0 +1,18 @@
+{
+  "input_file": "D:\\data\\测杆.extract.txt",
+  "point_count": 265174,
+  "contact_point": [
+    -31.04512405,
+    474.75,
+    2995.05004883
+  ],
+  "other_endpoint_candidate": [
+    -244.3500061,
+    464.8409729,
+    3074.25
+  ],
+  "distance_between_endpoint_candidates": 227.74941007555506,
+  "mode": "direct_raw_scanned_endpoint",
+  "contact_point_is_original_scan_point": true,
+  "notes": "接触点直接取自原始扫描数据，未进行杆轴线、圆柱或球面拟合。两个端点候选由欧氏距离双向搜索生成，最终端点由人工确认。"
+}
